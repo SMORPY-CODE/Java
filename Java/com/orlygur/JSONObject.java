@@ -14,8 +14,8 @@ public class JSONObject {
         map.put(key, value);
     }
     
-    public void get(String key) {
-        map.get(key);
+    public String get(String key) {
+        return map.get(key);
     }
     
 }
