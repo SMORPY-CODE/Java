@@ -1,4 +1,4 @@
-package com.orlygur;
+package com.orlygur.JSON;
 
 import java.util.HashMap;
 import java.util.Map;
